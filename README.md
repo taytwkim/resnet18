@@ -1,4 +1,4 @@
-# ResNet 18 
+# ResNet18 
 
 Toy workload to experiment with neural networks.
 
