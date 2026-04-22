@@ -57,7 +57,7 @@ python3 train.py [--epochs <INT>] [--batch-size <INT>] [--lr <FLOAT>]
   * `--resume`: Resume from checkpoint produced by this script.
   * `--save-every`: Also save a snapshot every N epochs (0 disables).
 
-## 📁 Directory
+## 🗂️ Directory
 ```
 resnet18-cifar10/
 ├─ train.py
