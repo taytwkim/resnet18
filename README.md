@@ -1,6 +1,6 @@
-# ResNet18 
+# ResNet-18
 
-Toy workload to experiment with neural networks.
+Toy training workload to experiment with neural networks.
 
 ## 🚀 Setup
 
@@ -59,7 +59,7 @@ python3 train.py [--epochs <INT>] [--batch-size <INT>] [--lr <FLOAT>]
 
 ## 🗂️ Directory
 ```
-resnet18-cifar10/
+resnet18/
 ├─ train.py
 ├─ data/
 ├─ artifacts/
