@@ -8,9 +8,10 @@
 venv/
 
 # Datasets & artifacts
-data/
+data/*
 artifacts/*
 !artifacts/.gitkeep
+!data/.gitkeep
 
 # Jupyter / editors / OS
 .ipynb_checkpoints/

@@ -66,7 +66,7 @@ resnet18/
 └─ requirements.txt
 ```
 
-* `data/` [Not tracked by git]
+* `data/` [Empty directory tracked by git]
     * `cifar-10-python.tar.gz`: the original compressed dataset that `torchvision` downloads.
     * `cifar-10-batches-py/`: extracted from the tarball. This is what `torchvision.datasets.CIFAR10` actually reads.
         * `data_batch_1` … `data_batch_5`: 5 training batches - 10,000 images each.
